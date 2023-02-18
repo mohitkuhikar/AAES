@@ -60,3 +60,6 @@ while True:
 # Release camera and close window
 cam.release()
 cv2.destroyAllWindows()
+
+
+***This updated code only reads the enrollment number from the ID card and checks it against the list of enrollments for the class. It then records the attendance of the student with that enrollment number and adds a new record to the attendance DataFrame. Finally, it displays a message indicating whether the attendance was recorded or not. Note that this code assumes that the ID cards have a specific format that includes the enrollment number in a specific location. If the ID cards have a different format, you may need to modify the regular expression used to extract the enrollment number.***
