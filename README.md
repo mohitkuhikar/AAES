@@ -1,5 +1,5 @@
 # AAES
-Project Title: Enrollment-based Attendance System
+Project Title: AUTOMATED ATTENDENCE ENTRY SYSTEM (Enrollment-based Attendance System)
 
 Project Description:
 
