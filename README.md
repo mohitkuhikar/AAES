@@ -6,11 +6,11 @@ This project aims to create an automated attendance system using Python programm
 
 The system uses the following tools and technologies:
 
-Python programming language
-OpenCV library for capturing images from a camera
-Tesseract OCR library for recognizing text in images
-pandas library for reading and writing CSV files
-Regular expressions for extracting enrollment numbers from text
+* Python programming language
+* OpenCV library for capturing images from a camera
+* Tesseract OCR library for recognizing text in images
+* pandas library for reading and writing CSV files
+* Regular expressions for extracting enrollment numbers from text
 The project can be implemented by following these steps:
 
 1. Set up the camera to capture images
