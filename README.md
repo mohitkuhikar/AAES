@@ -2,6 +2,7 @@
 Project Title: Enrollment-based Attendance System
 
 Project Description:
+
 This project aims to create an automated attendance system using Python programming language. The system reads the enrollment number from an ID card and checks it against a list of student enrollments for a particular class. If the enrollment number matches a student's enrollment, the system records the student's attendance in a CSV file. If the enrollment number does not match any student's enrollment, the system displays a message indicating that the student does not belong to the class.
 
 The system uses the following tools and technologies:
@@ -11,6 +12,7 @@ The system uses the following tools and technologies:
 * Tesseract OCR library for recognizing text in images
 * pandas library for reading and writing CSV files
 * Regular expressions for extracting enrollment numbers from text
+
 The project can be implemented by following these steps:
 
 1. Set up the camera to capture images
