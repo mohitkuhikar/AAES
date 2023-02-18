@@ -25,4 +25,5 @@ The project can be implemented by following these steps:
 10. If there is no match, display a message indicating that the student does not belong to the class
 11. Display the camera feed
 12. Exit the loop on pressing the escape key
+
 With this project, we can automate the attendance process and eliminate the need for manual recording of attendance. It can also reduce errors and save time.
